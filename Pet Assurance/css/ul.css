@@ -1,0 +1,10 @@
+ul {           /* 導覽列整體設定*/
+    margin: 0;             /* 取消外距，設定為0*/
+    padding: 4px;          /* 內部距離，設定為4px*/
+    text-align: center;    /* 文字置中*/
+}
+ul li {
+    display:inline;
+    font-size: 20px;
+}
+
